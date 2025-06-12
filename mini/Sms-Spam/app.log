@@ -1,0 +1,665 @@
+2025-04-28 12:19:57,447 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 12:19:57,451 - INFO - Models loaded successfully
+2025-04-28 12:19:57,672 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 12:19:57,722 - WARNING -  * Debugger is active!
+2025-04-28 12:19:57,732 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 12:22:06,968 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/extract_model.py', reloading
+2025-04-28 12:22:08,030 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 12:22:08,034 - INFO - Models loaded successfully
+2025-04-28 12:22:08,203 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 12:22:08,222 - WARNING -  * Debugger is active!
+2025-04-28 12:22:08,231 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 12:22:26,510 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 12:22:26,651 - INFO - Models loaded successfully
+2025-04-28 12:22:27,088 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 12:23:57,227 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 12:23:57,399 - INFO - Models loaded successfully
+2025-04-28 12:23:57,572 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 12:23:57,598 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.177:5000
+2025-04-28 12:23:57,598 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 12:23:57,598 - INFO -  * Restarting with stat
+2025-04-28 12:23:58,228 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 12:23:58,337 - INFO - Models loaded successfully
+2025-04-28 12:23:58,486 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 12:23:58,502 - WARNING -  * Debugger is active!
+2025-04-28 12:23:58,511 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 12:24:18,223 - INFO - 127.0.0.1 - - [28/Apr/2025 12:24:18] "GET / HTTP/1.1" 200 -
+2025-04-28 12:24:26,930 - INFO - Prediction: hi I am good... -> Ham (0.38%)
+2025-04-28 12:24:26,930 - INFO - 127.0.0.1 - - [28/Apr/2025 12:24:26] "POST /predict HTTP/1.1" 200 -
+2025-04-28 12:24:29,665 - INFO - 127.0.0.1 - - [28/Apr/2025 12:24:29] "GET /history HTTP/1.1" 200 -
+2025-04-28 12:24:36,127 - INFO - 127.0.0.1 - - [28/Apr/2025 12:24:36] "GET /stats HTTP/1.1" 200 -
+2025-04-28 12:24:44,521 - INFO - Prediction: HI I am good... -> Ham (0.38%)
+2025-04-28 12:24:44,522 - INFO - 127.0.0.1 - - [28/Apr/2025 12:24:44] "POST /predict HTTP/1.1" 200 -
+2025-04-28 12:24:47,686 - INFO - 127.0.0.1 - - [28/Apr/2025 12:24:47] "GET /history HTTP/1.1" 200 -
+2025-04-28 12:34:52,501 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/app.py', reloading
+2025-04-28 12:34:52,983 - INFO -  * Restarting with stat
+2025-04-28 12:34:54,131 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 12:34:54,298 - INFO - Models loaded successfully
+2025-04-28 12:34:54,445 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 12:34:54,464 - WARNING -  * Debugger is active!
+2025-04-28 12:34:54,474 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 12:37:02,450 - INFO - Prediction: CLICK TO WIN RUPEE O... -> Spam (100.00%)
+2025-04-28 12:37:02,450 - INFO - 127.0.0.1 - - [28/Apr/2025 12:37:02] "POST /predict HTTP/1.1" 200 -
+2025-04-28 12:37:04,845 - INFO - 127.0.0.1 - - [28/Apr/2025 12:37:04] "GET /history HTTP/1.1" 200 -
+2025-04-28 12:37:19,959 - INFO - 127.0.0.1 - - [28/Apr/2025 12:37:19] "GET /stats HTTP/1.1" 200 -
+2025-04-28 12:37:37,994 - INFO - 127.0.0.1 - - [28/Apr/2025 12:37:37] "GET / HTTP/1.1" 200 -
+2025-04-28 12:37:38,115 - INFO - 127.0.0.1 - - [28/Apr/2025 12:37:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-28 12:39:48,761 - INFO - 127.0.0.1 - - [28/Apr/2025 12:39:48] "GET /stats HTTP/1.1" 200 -
+2025-04-28 12:39:54,276 - INFO - 127.0.0.1 - - [28/Apr/2025 12:39:54] "GET /history HTTP/1.1" 200 -
+2025-04-28 12:39:55,805 - INFO - 127.0.0.1 - - [28/Apr/2025 12:39:55] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 12:39:55,920 - INFO - 127.0.0.1 - - [28/Apr/2025 12:39:55] "GET /history HTTP/1.1" 200 -
+2025-04-28 12:39:58,851 - INFO - 127.0.0.1 - - [28/Apr/2025 12:39:58] "GET /stats HTTP/1.1" 200 -
+2025-04-28 12:42:46,602 - INFO - Prediction: HELLO I AM GAURAV CO... -> Ham (0.04%)
+2025-04-28 12:42:46,602 - INFO - 127.0.0.1 - - [28/Apr/2025 12:42:46] "POST /predict HTTP/1.1" 200 -
+2025-04-28 12:42:51,383 - INFO - 127.0.0.1 - - [28/Apr/2025 12:42:51] "GET /history HTTP/1.1" 200 -
+2025-04-28 12:43:20,294 - INFO - Prediction: HELLO PLEASE CLICK O... -> Spam (100.00%)
+2025-04-28 12:43:20,294 - INFO - 127.0.0.1 - - [28/Apr/2025 12:43:20] "POST /predict HTTP/1.1" 200 -
+2025-04-28 12:43:44,855 - INFO - 127.0.0.1 - - [28/Apr/2025 12:43:44] "GET / HTTP/1.1" 200 -
+2025-04-28 12:43:46,338 - INFO - 127.0.0.1 - - [28/Apr/2025 12:43:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-28 12:43:59,209 - INFO - 127.0.0.1 - - [28/Apr/2025 12:43:59] "GET / HTTP/1.1" 200 -
+2025-04-28 12:45:19,977 - INFO - 127.0.0.1 - - [28/Apr/2025 12:45:19] "GET / HTTP/1.1" 200 -
+2025-04-28 12:45:20,577 - INFO - 127.0.0.1 - - [28/Apr/2025 12:45:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-28 13:20:39,648 - INFO - 127.0.0.1 - - [28/Apr/2025 13:20:39] "GET / HTTP/1.1" 200 -
+2025-04-28 13:20:46,906 - INFO - Prediction: Hi... -> Ham (27.93%)
+2025-04-28 13:20:46,906 - INFO - 127.0.0.1 - - [28/Apr/2025 13:20:46] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:21:58,659 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/app.py', reloading
+2025-04-28 13:21:59,080 - INFO -  * Restarting with stat
+2025-04-28 13:22:00,150 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:22:00,305 - INFO - Models loaded successfully
+2025-04-28 13:22:00,518 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:22:00,541 - WARNING -  * Debugger is active!
+2025-04-28 13:22:00,554 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:22:30,076 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/app.py', reloading
+2025-04-28 13:22:30,259 - INFO -  * Restarting with stat
+2025-04-28 13:22:31,183 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:22:31,321 - INFO - Models loaded successfully
+2025-04-28 13:22:31,477 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:22:31,508 - WARNING -  * Debugger is active!
+2025-04-28 13:22:31,515 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:22:35,738 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/app.py', reloading
+2025-04-28 13:22:35,895 - INFO -  * Restarting with stat
+2025-04-28 13:22:36,703 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:22:36,891 - INFO - Models loaded successfully
+2025-04-28 13:22:37,023 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:22:37,037 - WARNING -  * Debugger is active!
+2025-04-28 13:22:37,044 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:22:45,601 - INFO - 127.0.0.1 - - [28/Apr/2025 13:22:45] "GET / HTTP/1.1" 200 -
+2025-04-28 13:23:32,059 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:23:32,208 - INFO - Models loaded successfully
+2025-04-28 13:23:32,387 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:23:32,415 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.3.177:5001
+2025-04-28 13:23:32,416 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 13:23:32,416 - INFO -  * Restarting with stat
+2025-04-28 13:23:33,033 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:23:33,147 - INFO - Models loaded successfully
+2025-04-28 13:23:33,273 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:23:33,290 - WARNING -  * Debugger is active!
+2025-04-28 13:23:33,298 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:27:06,748 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:27:06,917 - INFO - Models loaded successfully
+2025-04-28 13:27:07,057 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:27:07,084 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.3.177:5001
+2025-04-28 13:27:07,085 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 13:27:07,085 - INFO -  * Restarting with stat
+2025-04-28 13:27:07,716 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:27:07,825 - INFO - Models loaded successfully
+2025-04-28 13:27:07,959 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:27:07,975 - WARNING -  * Debugger is active!
+2025-04-28 13:27:07,983 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:30:02,411 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/app.py', reloading
+2025-04-28 13:30:02,644 - INFO -  * Restarting with stat
+2025-04-28 13:30:03,774 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:30:03,942 - INFO - Models loaded successfully
+2025-04-28 13:30:04,130 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:30:04,149 - WARNING -  * Debugger is active!
+2025-04-28 13:30:04,155 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:30:33,841 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:30:33,998 - INFO - Models loaded successfully
+2025-04-28 13:30:34,176 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:30:34,199 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.3.177:5001
+2025-04-28 13:30:34,199 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 13:30:34,199 - INFO -  * Restarting with stat
+2025-04-28 13:30:34,837 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:30:34,951 - INFO - Models loaded successfully
+2025-04-28 13:30:35,081 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:30:35,097 - WARNING -  * Debugger is active!
+2025-04-28 13:30:35,105 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:31:32,063 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/app.py', reloading
+2025-04-28 13:31:32,247 - INFO -  * Restarting with stat
+2025-04-28 13:31:33,175 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:31:33,325 - INFO - Models loaded successfully
+2025-04-28 13:31:33,489 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:31:33,507 - WARNING -  * Debugger is active!
+2025-04-28 13:31:33,514 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:31:46,178 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:31:46,319 - INFO - Models loaded successfully
+2025-04-28 13:31:46,462 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:31:46,485 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.3.177:5001
+2025-04-28 13:31:46,485 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 13:31:46,486 - INFO -  * Restarting with stat
+2025-04-28 13:31:47,114 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:31:47,223 - INFO - Models loaded successfully
+2025-04-28 13:31:47,373 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:31:47,387 - WARNING -  * Debugger is active!
+2025-04-28 13:31:47,400 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:34:07,623 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:34:07,872 - INFO - Models loaded successfully
+2025-04-28 13:34:08,037 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:34:08,065 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.3.177:5001
+2025-04-28 13:34:08,065 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 13:34:08,066 - INFO -  * Restarting with stat
+2025-04-28 13:34:08,718 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:34:08,828 - INFO - Models loaded successfully
+2025-04-28 13:34:08,968 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:34:08,983 - WARNING -  * Debugger is active!
+2025-04-28 13:34:08,995 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:34:34,328 - INFO - 192.168.3.177 - - [28/Apr/2025 13:34:34] "GET / HTTP/1.1" 200 -
+2025-04-28 13:34:34,579 - INFO - 192.168.3.177 - - [28/Apr/2025 13:34:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-28 13:34:38,557 - INFO - 192.168.3.177 - - [28/Apr/2025 13:34:38] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:34:39,459 - INFO - 192.168.3.177 - - [28/Apr/2025 13:34:39] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:34:50,873 - INFO - Prediction: I WILL EAT AT 4 PM... -> Ham (8.26%)
+2025-04-28 13:34:50,873 - INFO - 192.168.3.177 - - [28/Apr/2025 13:34:50] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:34:53,180 - INFO - 192.168.3.177 - - [28/Apr/2025 13:34:53] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:34:58,358 - INFO - 192.168.3.177 - - [28/Apr/2025 13:34:58] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:35:09,422 - INFO - Prediction: I WILL COME TOMMOROW... -> Ham (1.38%)
+2025-04-28 13:35:09,423 - INFO - 192.168.3.177 - - [28/Apr/2025 13:35:09] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:35:11,767 - INFO - 192.168.3.177 - - [28/Apr/2025 13:35:11] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:35:25,627 - INFO - Prediction: I DONT CAME TODAY... -> Ham (0.03%)
+2025-04-28 13:35:25,628 - INFO - 192.168.3.177 - - [28/Apr/2025 13:35:25] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:35:36,506 - INFO - Prediction: SEND ME 5000 AND WIN... -> Spam (99.66%)
+2025-04-28 13:35:36,507 - INFO - 192.168.3.177 - - [28/Apr/2025 13:35:36] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:35:38,223 - INFO - 192.168.3.177 - - [28/Apr/2025 13:35:38] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:35:40,389 - INFO - 192.168.3.177 - - [28/Apr/2025 13:35:40] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:36:38,935 - INFO - 127.0.0.1 - - [28/Apr/2025 13:36:38] "GET / HTTP/1.1" 200 -
+2025-04-28 13:37:13,041 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/sms_spam_detection.py', reloading
+2025-04-28 13:37:13,438 - INFO -  * Restarting with stat
+2025-04-28 13:37:14,624 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:37:14,797 - INFO - Models loaded successfully
+2025-04-28 13:37:14,927 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:37:14,945 - WARNING -  * Debugger is active!
+2025-04-28 13:37:14,953 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:37:34,258 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:37:34,411 - INFO - Models loaded successfully
+2025-04-28 13:37:34,604 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:37:34,626 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.3.177:5001
+2025-04-28 13:37:34,626 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 13:37:34,627 - INFO -  * Restarting with stat
+2025-04-28 13:37:35,316 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:37:35,523 - INFO - Models loaded successfully
+2025-04-28 13:37:35,672 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:37:35,688 - WARNING -  * Debugger is active!
+2025-04-28 13:37:35,695 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:38:00,889 - INFO - 127.0.0.1 - - [28/Apr/2025 13:38:00] "GET / HTTP/1.1" 200 -
+2025-04-28 13:38:09,426 - INFO - Prediction: hi I am good... -> Ham (0.38%)
+2025-04-28 13:38:09,427 - INFO - 127.0.0.1 - - [28/Apr/2025 13:38:09] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:38:11,585 - INFO - 127.0.0.1 - - [28/Apr/2025 13:38:11] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:38:12,708 - INFO - 127.0.0.1 - - [28/Apr/2025 13:38:12] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:38:21,995 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/sms_spam_detection.py', reloading
+2025-04-28 13:38:22,392 - INFO -  * Restarting with stat
+2025-04-28 13:38:23,344 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:38:23,488 - INFO - Models loaded successfully
+2025-04-28 13:38:23,608 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:38:23,624 - WARNING -  * Debugger is active!
+2025-04-28 13:38:23,631 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:38:50,068 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:38:50,239 - INFO - Models loaded successfully
+2025-04-28 13:38:50,409 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:38:50,430 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.3.177:5001
+2025-04-28 13:38:50,430 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 13:38:50,431 - INFO -  * Restarting with stat
+2025-04-28 13:38:51,111 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:38:51,219 - INFO - Models loaded successfully
+2025-04-28 13:38:51,598 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:38:51,621 - WARNING -  * Debugger is active!
+2025-04-28 13:38:51,635 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:39:02,620 - INFO - 127.0.0.1 - - [28/Apr/2025 13:39:02] "GET / HTTP/1.1" 200 -
+2025-04-28 13:39:05,879 - INFO - Prediction: hi... -> Ham (27.93%)
+2025-04-28 13:39:05,880 - INFO - 127.0.0.1 - - [28/Apr/2025 13:39:05] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:39:08,666 - INFO - 127.0.0.1 - - [28/Apr/2025 13:39:08] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:39:10,346 - INFO - 127.0.0.1 - - [28/Apr/2025 13:39:10] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:44:22,715 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:44:22,884 - INFO - Models loaded successfully
+2025-04-28 13:44:23,224 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:44:23,256 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.3.177:5001
+2025-04-28 13:44:23,256 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 13:44:23,257 - INFO -  * Restarting with stat
+2025-04-28 13:44:23,908 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 13:44:24,031 - INFO - Models loaded successfully
+2025-04-28 13:44:24,188 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 13:44:24,207 - WARNING -  * Debugger is active!
+2025-04-28 13:44:24,215 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 13:44:32,544 - INFO - 192.168.3.177 - - [28/Apr/2025 13:44:32] "GET / HTTP/1.1" 200 -
+2025-04-28 13:44:35,477 - INFO - Prediction: hi... -> Ham (27.93%)
+2025-04-28 13:44:35,478 - INFO - 192.168.3.177 - - [28/Apr/2025 13:44:35] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:44:36,781 - INFO - 192.168.3.177 - - [28/Apr/2025 13:44:36] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:44:37,963 - INFO - 192.168.3.177 - - [28/Apr/2025 13:44:37] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:45:03,963 - INFO - Prediction: hello I have done my... -> Ham (0.01%)
+2025-04-28 13:45:03,964 - INFO - 192.168.3.177 - - [28/Apr/2025 13:45:03] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:45:05,851 - INFO - 192.168.3.177 - - [28/Apr/2025 13:45:05] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:45:11,706 - INFO - 192.168.3.177 - - [28/Apr/2025 13:45:11] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:45:13,966 - INFO - 192.168.3.177 - - [28/Apr/2025 13:45:13] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:45:34,531 - INFO - 192.168.3.177 - - [28/Apr/2025 13:45:34] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:45:35,531 - INFO - 192.168.3.177 - - [28/Apr/2025 13:45:35] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:45:36,498 - INFO - 192.168.3.177 - - [28/Apr/2025 13:45:36] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:45:37,747 - INFO - 192.168.3.177 - - [28/Apr/2025 13:45:37] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:46:08,131 - INFO - 127.0.0.1 - - [28/Apr/2025 13:46:08] "GET / HTTP/1.1" 200 -
+2025-04-28 13:46:10,153 - INFO - 127.0.0.1 - - [28/Apr/2025 13:46:10] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:46:11,630 - INFO - 127.0.0.1 - - [28/Apr/2025 13:46:11] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:46:14,204 - INFO - 127.0.0.1 - - [28/Apr/2025 13:46:14] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 13:46:14,512 - INFO - 127.0.0.1 - - [28/Apr/2025 13:46:14] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:46:15,348 - INFO - 127.0.0.1 - - [28/Apr/2025 13:46:15] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 13:46:15,644 - INFO - 127.0.0.1 - - [28/Apr/2025 13:46:15] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:46:16,648 - INFO - 127.0.0.1 - - [28/Apr/2025 13:46:16] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:46:17,735 - INFO - 127.0.0.1 - - [28/Apr/2025 13:46:17] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:46:18,214 - INFO - 127.0.0.1 - - [28/Apr/2025 13:46:18] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:46:23,976 - INFO - 127.0.0.1 - - [28/Apr/2025 13:46:23] "GET / HTTP/1.1" 200 -
+2025-04-28 13:48:05,325 - INFO - 127.0.0.1 - - [28/Apr/2025 13:48:05] "GET / HTTP/1.1" 200 -
+2025-04-28 13:48:06,371 - INFO - 127.0.0.1 - - [28/Apr/2025 13:48:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-28 13:48:10,235 - INFO - Prediction: hi
+... -> Ham (27.93%)
+2025-04-28 13:48:10,235 - INFO - 127.0.0.1 - - [28/Apr/2025 13:48:10] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:48:10,338 - INFO - 127.0.0.1 - - [28/Apr/2025 13:48:10] "GET / HTTP/1.1" 200 -
+2025-04-28 13:48:39,926 - INFO - Prediction: where are you from... -> Ham (27.93%)
+2025-04-28 13:48:39,927 - INFO - 127.0.0.1 - - [28/Apr/2025 13:48:39] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:48:47,709 - INFO - Prediction: spam... -> Ham (27.93%)
+2025-04-28 13:48:47,709 - INFO - 127.0.0.1 - - [28/Apr/2025 13:48:47] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:49:34,216 - INFO - Prediction: hey click this link ... -> Spam (100.00%)
+2025-04-28 13:49:34,217 - INFO - 127.0.0.1 - - [28/Apr/2025 13:49:34] "POST /predict HTTP/1.1" 200 -
+2025-04-28 13:49:53,370 - INFO - 127.0.0.1 - - [28/Apr/2025 13:49:53] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:49:57,879 - INFO - 127.0.0.1 - - [28/Apr/2025 13:49:57] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:50:07,164 - INFO - 127.0.0.1 - - [28/Apr/2025 13:50:07] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:50:18,458 - INFO - 127.0.0.1 - - [28/Apr/2025 13:50:18] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:50:25,779 - INFO - 127.0.0.1 - - [28/Apr/2025 13:50:25] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:50:47,820 - INFO - 127.0.0.1 - - [28/Apr/2025 13:50:47] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 13:50:48,332 - INFO - 127.0.0.1 - - [28/Apr/2025 13:50:48] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:53:08,342 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:08] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 13:53:08,934 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:08] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 13:53:09,071 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:09] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:53:09,424 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:09] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:53:10,404 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:10] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 13:53:11,022 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:11] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:53:12,754 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:12] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:53:14,836 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:14] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:53:15,341 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:15] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:53:16,810 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:16] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:53:17,323 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:17] "GET /history HTTP/1.1" 200 -
+2025-04-28 13:53:18,974 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:18] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:53:20,579 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:20] "GET /stats HTTP/1.1" 200 -
+2025-04-28 13:53:21,748 - INFO - 127.0.0.1 - - [28/Apr/2025 13:53:21] "GET /history HTTP/1.1" 200 -
+2025-04-28 14:14:30,591 - INFO - 127.0.0.1 - - [28/Apr/2025 14:14:30] "GET / HTTP/1.1" 200 -
+2025-04-28 14:14:38,382 - INFO - 127.0.0.1 - - [28/Apr/2025 14:14:38] "GET / HTTP/1.1" 200 -
+2025-04-28 14:14:41,479 - INFO - 127.0.0.1 - - [28/Apr/2025 14:14:41] "GET / HTTP/1.1" 200 -
+2025-04-28 14:14:41,897 - INFO - 127.0.0.1 - - [28/Apr/2025 14:14:41] "GET / HTTP/1.1" 200 -
+2025-04-28 14:14:48,184 - INFO - Prediction: hi... -> Ham (27.93%)
+2025-04-28 14:14:48,185 - INFO - 127.0.0.1 - - [28/Apr/2025 14:14:48] "POST /predict HTTP/1.1" 200 -
+2025-04-28 14:15:47,142 - INFO - 127.0.0.1 - - [28/Apr/2025 14:15:47] "GET / HTTP/1.1" 200 -
+2025-04-28 14:26:49,790 - INFO - 127.0.0.1 - - [28/Apr/2025 14:26:49] "GET /history HTTP/1.1" 200 -
+2025-04-28 14:27:14,424 - INFO - Prediction: click this link you ... -> Spam (100.00%)
+2025-04-28 14:27:14,425 - INFO - 127.0.0.1 - - [28/Apr/2025 14:27:14] "POST /predict HTTP/1.1" 200 -
+2025-04-28 14:27:19,283 - INFO - 127.0.0.1 - - [28/Apr/2025 14:27:19] "GET /history HTTP/1.1" 200 -
+2025-04-28 14:27:39,388 - INFO - Prediction: click this link and ... -> Spam (98.84%)
+2025-04-28 14:27:39,389 - INFO - 127.0.0.1 - - [28/Apr/2025 14:27:39] "POST /predict HTTP/1.1" 200 -
+2025-04-28 14:35:33,436 - INFO - 127.0.0.1 - - [28/Apr/2025 14:35:33] "GET / HTTP/1.1" 200 -
+2025-04-28 14:35:54,943 - INFO - Prediction: Hi this is Tejasri ... -> Ham (27.93%)
+2025-04-28 14:35:54,943 - INFO - 127.0.0.1 - - [28/Apr/2025 14:35:54] "POST /predict HTTP/1.1" 200 -
+2025-04-28 14:36:17,912 - INFO - Prediction: DON'T WAIT! Your hig... -> Ham (52.15%)
+2025-04-28 14:36:17,913 - INFO - 127.0.0.1 - - [28/Apr/2025 14:36:17] "POST /predict HTTP/1.1" 200 -
+2025-04-28 14:39:41,909 - INFO - Prediction: Click here to get 10... -> Spam (98.33%)
+2025-04-28 14:39:41,910 - INFO - 127.0.0.1 - - [28/Apr/2025 14:39:41] "POST /predict HTTP/1.1" 200 -
+2025-04-28 14:47:54,140 - INFO - 127.0.0.1 - - [28/Apr/2025 14:47:54] "GET / HTTP/1.1" 200 -
+2025-04-28 14:47:55,886 - INFO - 127.0.0.1 - - [28/Apr/2025 14:47:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-28 16:35:59,524 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/app.py', reloading
+2025-04-28 16:36:00,177 - INFO -  * Restarting with stat
+2025-04-28 16:36:01,436 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 16:36:01,607 - INFO - Models loaded successfully
+2025-04-28 16:36:01,762 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 16:36:01,786 - WARNING -  * Debugger is active!
+2025-04-28 16:36:01,797 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 16:36:39,958 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 16:36:40,112 - INFO - Models loaded successfully
+2025-04-28 16:36:40,243 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 16:36:40,266 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.3.177:5001
+2025-04-28 16:36:40,266 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 16:36:40,266 - INFO -  * Restarting with stat
+2025-04-28 16:36:40,895 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 16:36:41,007 - INFO - Models loaded successfully
+2025-04-28 16:36:41,123 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 16:36:41,138 - WARNING -  * Debugger is active!
+2025-04-28 16:36:41,150 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 16:37:27,744 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 16:37:27,917 - INFO - Models loaded successfully
+2025-04-28 16:37:28,052 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 16:37:28,076 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.3.177:5001
+2025-04-28 16:37:28,076 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 16:37:28,076 - INFO -  * Restarting with stat
+2025-04-28 16:37:28,816 - INFO - Loading model and vectorizer from individual files...
+2025-04-28 16:37:28,952 - INFO - Models loaded successfully
+2025-04-28 16:37:29,086 - INFO - Starting SMS Spam Detection Flask App
+2025-04-28 16:37:29,103 - WARNING -  * Debugger is active!
+2025-04-28 16:37:29,110 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 16:38:52,845 - INFO - 127.0.0.1 - - [28/Apr/2025 16:38:52] "GET / HTTP/1.1" 200 -
+2025-04-28 16:38:56,756 - INFO - Prediction: hi... -> Ham (72.07%)
+2025-04-28 16:38:56,756 - INFO - 127.0.0.1 - - [28/Apr/2025 16:38:56] "POST /predict HTTP/1.1" 200 -
+2025-04-28 16:39:10,900 - INFO - 127.0.0.1 - - [28/Apr/2025 16:39:10] "GET /stats HTTP/1.1" 200 -
+2025-04-28 16:39:13,554 - INFO - 127.0.0.1 - - [28/Apr/2025 16:39:13] "GET /history HTTP/1.1" 200 -
+2025-04-28 16:39:44,557 - INFO - Prediction: CLICK ON THIS LINK T... -> Spam (100.00%)
+2025-04-28 16:39:44,558 - INFO - 127.0.0.1 - - [28/Apr/2025 16:39:44] "POST /predict HTTP/1.1" 200 -
+2025-04-28 16:39:59,628 - INFO - 127.0.0.1 - - [28/Apr/2025 16:39:59] "GET /history HTTP/1.1" 200 -
+2025-04-28 16:40:01,239 - INFO - 127.0.0.1 - - [28/Apr/2025 16:40:01] "GET /stats HTTP/1.1" 200 -
+2025-04-28 16:40:10,683 - INFO - Prediction: HELLO COME TO EAT... -> Ham (99.59%)
+2025-04-28 16:40:10,684 - INFO - 127.0.0.1 - - [28/Apr/2025 16:40:10] "POST /predict HTTP/1.1" 200 -
+2025-04-28 16:40:30,676 - INFO - 127.0.0.1 - - [28/Apr/2025 16:40:30] "GET /stats HTTP/1.1" 200 -
+2025-04-28 16:40:34,505 - INFO - 127.0.0.1 - - [28/Apr/2025 16:40:34] "GET /history HTTP/1.1" 200 -
+2025-04-28 16:41:01,842 - INFO - 127.0.0.1 - - [28/Apr/2025 16:41:01] "GET /stats HTTP/1.1" 200 -
+2025-04-28 17:30:22,218 - INFO - Prediction: I WILL KILL HER... -> Ham (72.07%)
+2025-04-28 17:30:22,220 - INFO - 127.0.0.1 - - [28/Apr/2025 17:30:22] "POST /predict HTTP/1.1" 200 -
+2025-04-28 17:30:24,372 - INFO - 127.0.0.1 - - [28/Apr/2025 17:30:24] "GET /stats HTTP/1.1" 200 -
+2025-04-28 17:30:25,877 - INFO - 127.0.0.1 - - [28/Apr/2025 17:30:25] "GET /history HTTP/1.1" 200 -
+2025-04-28 17:30:28,301 - INFO - 127.0.0.1 - - [28/Apr/2025 17:30:28] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 17:30:28,436 - INFO - 127.0.0.1 - - [28/Apr/2025 17:30:28] "GET /history HTTP/1.1" 200 -
+2025-04-28 17:39:19,924 - INFO - 127.0.0.1 - - [28/Apr/2025 17:39:19] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 17:39:19,988 - INFO - 127.0.0.1 - - [28/Apr/2025 17:39:19] "GET /history HTTP/1.1" 200 -
+2025-04-28 17:39:20,579 - INFO - 127.0.0.1 - - [28/Apr/2025 17:39:20] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 17:39:20,642 - INFO - 127.0.0.1 - - [28/Apr/2025 17:39:20] "GET /history HTTP/1.1" 200 -
+2025-04-28 17:39:21,277 - INFO - 127.0.0.1 - - [28/Apr/2025 17:39:21] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 17:39:21,338 - INFO - 127.0.0.1 - - [28/Apr/2025 17:39:21] "GET /history HTTP/1.1" 200 -
+2025-04-28 17:39:22,879 - INFO - 127.0.0.1 - - [28/Apr/2025 17:39:22] "GET /stats HTTP/1.1" 200 -
+2025-04-28 17:39:26,968 - INFO - 127.0.0.1 - - [28/Apr/2025 17:39:26] "GET /stats HTTP/1.1" 200 -
+2025-04-28 17:39:27,704 - INFO - 127.0.0.1 - - [28/Apr/2025 17:39:27] "GET /history HTTP/1.1" 200 -
+2025-04-28 17:49:14,091 - INFO - 127.0.0.1 - - [28/Apr/2025 17:49:14] "GET /stats HTTP/1.1" 200 -
+2025-04-28 17:49:14,780 - INFO - 127.0.0.1 - - [28/Apr/2025 17:49:14] "GET /history HTTP/1.1" 200 -
+2025-04-28 17:49:23,042 - INFO - Prediction: hi... -> Ham (72.07%)
+2025-04-28 17:49:23,042 - INFO - 127.0.0.1 - - [28/Apr/2025 17:49:23] "POST /predict HTTP/1.1" 200 -
+2025-04-28 17:49:27,560 - INFO - 127.0.0.1 - - [28/Apr/2025 17:49:27] "GET /stats HTTP/1.1" 200 -
+2025-04-28 17:49:33,284 - INFO - 127.0.0.1 - - [28/Apr/2025 17:49:33] "GET /history HTTP/1.1" 200 -
+2025-04-28 17:49:34,734 - INFO - 127.0.0.1 - - [28/Apr/2025 17:49:34] "POST /delete_message HTTP/1.1" 200 -
+2025-04-28 17:49:34,845 - INFO - 127.0.0.1 - - [28/Apr/2025 17:49:34] "GET /history HTTP/1.1" 200 -
+2025-04-28 17:49:36,969 - INFO - 127.0.0.1 - - [28/Apr/2025 17:49:36] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:08:55,206 - INFO - Loading model and vectorizer from individual files...
+2025-04-30 00:08:55,515 - INFO - Models loaded successfully
+2025-04-30 00:08:55,671 - INFO - Starting SMS Spam Detection Flask App
+2025-04-30 00:08:55,724 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.51.8.184:5001
+2025-04-30 00:08:55,724 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 00:08:55,725 - INFO -  * Restarting with stat
+2025-04-30 00:08:56,356 - INFO - Loading model and vectorizer from individual files...
+2025-04-30 00:08:56,515 - INFO - Models loaded successfully
+2025-04-30 00:08:56,619 - INFO - Starting SMS Spam Detection Flask App
+2025-04-30 00:08:56,637 - WARNING -  * Debugger is active!
+2025-04-30 00:08:56,644 - INFO -  * Debugger PIN: 964-864-501
+2025-04-30 00:09:05,386 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:05] "GET / HTTP/1.1" 200 -
+2025-04-30 00:09:11,863 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:11] "GET / HTTP/1.1" 200 -
+2025-04-30 00:09:11,946 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-30 00:09:19,977 - INFO - Prediction: hi... -> Ham (72.07%)
+2025-04-30 00:09:19,977 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:19] "POST /predict HTTP/1.1" 200 -
+2025-04-30 00:09:25,346 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:25] "GET / HTTP/1.1" 200 -
+2025-04-30 00:09:25,751 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-30 00:09:28,218 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:28] "GET / HTTP/1.1" 200 -
+2025-04-30 00:09:29,029 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:29] "GET / HTTP/1.1" 200 -
+2025-04-30 00:09:29,031 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:29] "GET / HTTP/1.1" 200 -
+2025-04-30 00:09:29,672 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:29] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:09:31,017 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:31] "GET /history HTTP/1.1" 200 -
+2025-04-30 00:09:32,741 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:32] "POST /delete_message HTTP/1.1" 200 -
+2025-04-30 00:09:32,817 - INFO - 127.0.0.1 - - [30/Apr/2025 00:09:32] "GET /history HTTP/1.1" 200 -
+2025-04-30 00:10:17,366 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:17] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:10:18,880 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:18] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:10:19,452 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:19] "GET /history HTTP/1.1" 200 -
+2025-04-30 00:10:21,679 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:21] "GET / HTTP/1.1" 200 -
+2025-04-30 00:10:23,135 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:23] "GET /history HTTP/1.1" 200 -
+2025-04-30 00:10:23,663 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:23] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:10:25,927 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:25] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:10:26,344 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:26] "GET /history HTTP/1.1" 200 -
+2025-04-30 00:10:28,963 - INFO - Prediction: hi... -> Ham (72.07%)
+2025-04-30 00:10:28,964 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:28] "POST /predict HTTP/1.1" 200 -
+2025-04-30 00:10:30,104 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:30] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:10:30,780 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:30] "GET /history HTTP/1.1" 200 -
+2025-04-30 00:10:32,388 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:32] "POST /delete_message HTTP/1.1" 200 -
+2025-04-30 00:10:32,445 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:32] "GET /history HTTP/1.1" 200 -
+2025-04-30 00:10:33,243 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:33] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:10:37,895 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:37] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:10:53,387 - INFO - 127.0.0.1 - - [30/Apr/2025 00:10:53] "GET / HTTP/1.1" 200 -
+2025-04-30 00:11:02,063 - INFO - Prediction: Hi... -> Ham (72.07%)
+2025-04-30 00:11:02,063 - INFO - 127.0.0.1 - - [30/Apr/2025 00:11:02] "POST /predict HTTP/1.1" 200 -
+2025-04-30 00:12:07,544 - INFO - 127.0.0.1 - - [30/Apr/2025 00:12:07] "GET / HTTP/1.1" 200 -
+2025-04-30 00:12:07,692 - INFO - 127.0.0.1 - - [30/Apr/2025 00:12:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-30 00:12:38,776 - INFO - 127.0.0.1 - - [30/Apr/2025 00:12:38] "GET / HTTP/1.1" 200 -
+2025-04-30 00:12:58,344 - INFO - 127.0.0.1 - - [30/Apr/2025 00:12:58] "GET / HTTP/1.1" 200 -
+2025-04-30 00:12:58,761 - INFO - 127.0.0.1 - - [30/Apr/2025 00:12:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-30 00:13:22,300 - INFO - 127.0.0.1 - - [30/Apr/2025 00:13:22] "GET / HTTP/1.1" 200 -
+2025-04-30 00:13:41,371 - INFO - Prediction: Click this link you ... -> Spam (100.00%)
+2025-04-30 00:13:41,371 - INFO - 127.0.0.1 - - [30/Apr/2025 00:13:41] "POST /predict HTTP/1.1" 200 -
+2025-04-30 00:14:46,067 - INFO - Prediction: hnhnbggf... -> Ham (72.07%)
+2025-04-30 00:14:46,068 - INFO - 127.0.0.1 - - [30/Apr/2025 00:14:46] "POST /predict HTTP/1.1" 200 -
+2025-04-30 00:15:51,891 - INFO - 127.0.0.1 - - [30/Apr/2025 00:15:51] "GET / HTTP/1.1" 200 -
+2025-04-30 00:16:04,905 - INFO - Prediction: Click this link you ... -> Spam (100.00%)
+2025-04-30 00:16:04,905 - INFO - 127.0.0.1 - - [30/Apr/2025 00:16:04] "POST /predict HTTP/1.1" 200 -
+2025-04-30 00:17:13,511 - INFO - 127.0.0.1 - - [30/Apr/2025 00:17:13] "GET / HTTP/1.1" 200 -
+2025-04-30 00:17:16,503 - INFO - Prediction: hi... -> Ham (72.07%)
+2025-04-30 00:17:16,503 - INFO - 127.0.0.1 - - [30/Apr/2025 00:17:16] "POST /predict HTTP/1.1" 200 -
+2025-04-30 00:19:09,825 - INFO - 127.0.0.1 - - [30/Apr/2025 00:19:09] "GET / HTTP/1.1" 200 -
+2025-04-30 00:19:16,683 - INFO - 127.0.0.1 - - [30/Apr/2025 00:19:16] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:19:19,960 - INFO - 127.0.0.1 - - [30/Apr/2025 00:19:19] "GET /history HTTP/1.1" 200 -
+2025-04-30 00:19:25,379 - INFO - 127.0.0.1 - - [30/Apr/2025 00:19:25] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:19:58,855 - INFO - 127.0.0.1 - - [30/Apr/2025 00:19:58] "GET /stats HTTP/1.1" 200 -
+2025-04-30 00:19:59,587 - INFO - 127.0.0.1 - - [30/Apr/2025 00:19:59] "GET /history HTTP/1.1" 200 -
+2025-04-30 03:21:28,649 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/app.py', reloading
+2025-04-30 03:21:29,074 - INFO -  * Restarting with stat
+2025-04-30 03:21:30,261 - INFO - Loading model and vectorizer from individual files...
+2025-04-30 03:21:30,450 - INFO - Models loaded successfully
+2025-04-30 03:21:30,577 - INFO - Starting SMS Spam Detection Flask App
+2025-04-30 03:21:30,597 - WARNING -  * Debugger is active!
+2025-04-30 03:21:30,606 - INFO -  * Debugger PIN: 964-864-501
+2025-05-07 10:57:40,046 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 10:57:40,097 - ERROR - Error loading models: No module named 'imblearn'
+2025-05-07 10:57:40,097 - ERROR - Failed to load models: No module named 'imblearn'
+2025-05-07 10:57:40,097 - ERROR - Make sure to run the training script first
+2025-05-07 10:57:40,573 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 10:57:40,688 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.18.79:5001
+2025-05-07 10:57:40,689 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 10:57:40,718 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-07 10:57:43,259 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 10:57:43,259 - ERROR - Error loading models: No module named 'imblearn'
+2025-05-07 10:57:43,259 - ERROR - Failed to load models: No module named 'imblearn'
+2025-05-07 10:57:43,259 - ERROR - Make sure to run the training script first
+2025-05-07 10:57:43,518 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 10:57:43,539 - WARNING -  * Debugger is active!
+2025-05-07 10:57:43,545 - INFO -  * Debugger PIN: 992-610-159
+2025-05-07 11:00:55,911 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 11:00:57,555 - INFO - Models loaded successfully
+2025-05-07 11:00:57,930 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 11:00:57,982 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.18.79:5001
+2025-05-07 11:00:57,982 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 11:00:57,999 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-07 11:01:00,386 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 11:01:00,621 - INFO - Models loaded successfully
+2025-05-07 11:01:01,225 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 11:01:01,244 - WARNING -  * Debugger is active!
+2025-05-07 11:01:01,254 - INFO -  * Debugger PIN: 992-610-159
+2025-05-07 11:01:16,288 - INFO - 127.0.0.1 - - [07/May/2025 11:01:16] "GET / HTTP/1.1" 200 -
+2025-05-07 11:01:17,367 - INFO - 127.0.0.1 - - [07/May/2025 11:01:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-07 11:01:29,002 - INFO - Prediction: hai... -> Ham (98.61%)
+2025-05-07 11:01:29,002 - INFO - 127.0.0.1 - - [07/May/2025 11:01:29] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:01:40,042 - INFO - Prediction: Loan... -> Ham (96.67%)
+2025-05-07 11:01:40,042 - INFO - 127.0.0.1 - - [07/May/2025 11:01:40] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:01:50,329 - INFO - Prediction: Loan... -> Ham (96.67%)
+2025-05-07 11:01:50,329 - INFO - 127.0.0.1 - - [07/May/2025 11:01:50] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:01:53,535 - INFO - 127.0.0.1 - - [07/May/2025 11:01:53] "GET /stats HTTP/1.1" 200 -
+2025-05-07 11:01:56,670 - INFO - 127.0.0.1 - - [07/May/2025 11:01:56] "GET /history HTTP/1.1" 200 -
+2025-05-07 11:02:59,427 - INFO - Prediction: "Congratulations! Yo... -> Spam (100.00%)
+2025-05-07 11:02:59,427 - INFO - 127.0.0.1 - - [07/May/2025 11:02:59] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:03:02,470 - INFO - 127.0.0.1 - - [07/May/2025 11:03:02] "GET /history HTTP/1.1" 200 -
+2025-05-07 11:03:35,100 - INFO - Prediction: "URGENT! Your accoun... -> Spam (100.00%)
+2025-05-07 11:03:35,102 - INFO - 127.0.0.1 - - [07/May/2025 11:03:35] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:03:37,938 - INFO - 127.0.0.1 - - [07/May/2025 11:03:37] "GET /stats HTTP/1.1" 200 -
+2025-05-07 11:03:40,893 - INFO - 127.0.0.1 - - [07/May/2025 11:03:40] "GET /history HTTP/1.1" 200 -
+2025-05-07 11:03:43,757 - INFO - 127.0.0.1 - - [07/May/2025 11:03:43] "POST /delete_message HTTP/1.1" 200 -
+2025-05-07 11:03:43,775 - INFO - 127.0.0.1 - - [07/May/2025 11:03:43] "GET /history HTTP/1.1" 200 -
+2025-05-07 11:06:54,470 - INFO - Prediction: "Hey! I found some c... -> Ham (99.52%)
+2025-05-07 11:06:54,470 - INFO - 127.0.0.1 - - [07/May/2025 11:06:54] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:07:19,976 - INFO - Prediction: Hey! I found some co... -> Ham (99.52%)
+2025-05-07 11:07:19,978 - INFO - 127.0.0.1 - - [07/May/2025 11:07:19] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:07:22,808 - INFO - 127.0.0.1 - - [07/May/2025 11:07:22] "GET /history HTTP/1.1" 200 -
+2025-05-07 11:07:56,673 - INFO - Prediction: "You’ve won 2 free t... -> Spam (100.00%)
+2025-05-07 11:07:56,673 - INFO - 127.0.0.1 - - [07/May/2025 11:07:56] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:08:27,242 - INFO - Prediction: "Act Now! Your car w... -> Ham (99.95%)
+2025-05-07 11:08:27,244 - INFO - 127.0.0.1 - - [07/May/2025 11:08:27] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:08:49,558 - INFO - Prediction: Act Now! Your car wa... -> Ham (99.95%)
+2025-05-07 11:08:49,558 - INFO - 127.0.0.1 - - [07/May/2025 11:08:49] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:09:16,673 - INFO - Prediction: click this link to g... -> Spam (100.00%)
+2025-05-07 11:09:16,673 - INFO - 127.0.0.1 - - [07/May/2025 11:09:16] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:09:39,259 - INFO - Prediction: LATHMAR HOLI VOL 6.0... -> Ham (57.74%)
+2025-05-07 11:09:39,259 - INFO - 127.0.0.1 - - [07/May/2025 11:09:39] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:09:48,840 - INFO - Prediction: LATHMAR HOLI VOL 6.0... -> Ham (57.74%)
+2025-05-07 11:09:48,840 - INFO - 127.0.0.1 - - [07/May/2025 11:09:48] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:09:50,523 - INFO - 127.0.0.1 - - [07/May/2025 11:09:50] "GET /history HTTP/1.1" 200 -
+2025-05-07 11:10:52,398 - INFO - Prediction: Hey... -> Ham (99.99%)
+2025-05-07 11:10:52,406 - INFO - 127.0.0.1 - - [07/May/2025 11:10:52] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:11:04,851 - INFO - Prediction: good mrng... -> Ham (98.40%)
+2025-05-07 11:11:04,851 - INFO - 127.0.0.1 - - [07/May/2025 11:11:04] "POST /predict HTTP/1.1" 200 -
+2025-05-07 11:11:12,203 - INFO - 127.0.0.1 - - [07/May/2025 11:11:12] "GET /history HTTP/1.1" 200 -
+2025-05-07 11:22:42,645 - INFO - 127.0.0.1 - - [07/May/2025 11:22:42] "GET /history HTTP/1.1" 200 -
+2025-05-07 11:28:49,461 - INFO - 127.0.0.1 - - [07/May/2025 11:28:49] "GET /stats HTTP/1.1" 200 -
+2025-05-07 11:28:55,826 - INFO - 127.0.0.1 - - [07/May/2025 11:28:55] "GET /history HTTP/1.1" 200 -
+2025-05-07 12:54:42,659 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 12:54:46,019 - INFO - Models loaded successfully
+2025-05-07 12:54:52,923 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 12:54:53,333 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.18.79:5001
+2025-05-07 12:54:53,333 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 12:54:53,432 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-07 12:54:59,936 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 12:55:00,434 - INFO - Models loaded successfully
+2025-05-07 12:55:05,725 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 12:55:05,796 - WARNING -  * Debugger is active!
+2025-05-07 12:55:05,829 - INFO -  * Debugger PIN: 992-610-159
+2025-05-07 12:55:49,578 - INFO - 127.0.0.1 - - [07/May/2025 12:55:49] "GET / HTTP/1.1" 200 -
+2025-05-07 12:55:49,893 - INFO - 127.0.0.1 - - [07/May/2025 12:55:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-07 12:56:11,161 - INFO - Prediction: click this link to g... -> Spam (100.00%)
+2025-05-07 12:56:11,163 - INFO - 127.0.0.1 - - [07/May/2025 12:56:11] "POST /predict HTTP/1.1" 200 -
+2025-05-07 12:56:18,258 - INFO - 127.0.0.1 - - [07/May/2025 12:56:18] "GET /stats HTTP/1.1" 200 -
+2025-05-07 12:56:29,299 - INFO - 127.0.0.1 - - [07/May/2025 12:56:29] "GET /history HTTP/1.1" 200 -
+2025-05-07 12:56:36,191 - INFO - Prediction: hi 
+... -> Ham (72.07%)
+2025-05-07 12:56:36,191 - INFO - 127.0.0.1 - - [07/May/2025 12:56:36] "POST /predict HTTP/1.1" 200 -
+2025-05-07 12:56:39,392 - INFO - 127.0.0.1 - - [07/May/2025 12:56:39] "GET /stats HTTP/1.1" 200 -
+2025-05-07 12:56:47,008 - INFO - 127.0.0.1 - - [07/May/2025 12:56:47] "GET /history HTTP/1.1" 200 -
+2025-05-07 12:56:51,289 - INFO - 127.0.0.1 - - [07/May/2025 12:56:51] "POST /delete_message HTTP/1.1" 200 -
+2025-05-07 12:56:51,314 - INFO - 127.0.0.1 - - [07/May/2025 12:56:51] "GET /history HTTP/1.1" 200 -
+2025-05-07 12:56:52,813 - INFO - 127.0.0.1 - - [07/May/2025 12:56:52] "GET /stats HTTP/1.1" 200 -
+2025-05-07 12:56:55,555 - INFO - 127.0.0.1 - - [07/May/2025 12:56:55] "GET /history HTTP/1.1" 200 -
+2025-05-07 12:56:59,335 - INFO - 127.0.0.1 - - [07/May/2025 12:56:59] "GET /stats HTTP/1.1" 200 -
+2025-05-07 13:30:56,104 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 13:30:57,048 - INFO - Models loaded successfully
+2025-05-07 13:30:58,507 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 13:30:59,515 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.20.10.6:5001
+2025-05-07 13:30:59,515 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 13:30:59,605 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-07 13:31:05,646 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 13:31:06,121 - INFO - Models loaded successfully
+2025-05-07 13:31:06,990 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 13:31:07,056 - WARNING -  * Debugger is active!
+2025-05-07 13:31:07,093 - INFO -  * Debugger PIN: 992-610-159
+2025-05-07 13:31:12,213 - INFO - 127.0.0.1 - - [07/May/2025 13:31:12] "GET / HTTP/1.1" 200 -
+2025-05-07 13:31:13,231 - INFO - 127.0.0.1 - - [07/May/2025 13:31:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-07 13:31:18,864 - INFO - Prediction: hi... -> Ham (72.07%)
+2025-05-07 13:31:18,864 - INFO - 127.0.0.1 - - [07/May/2025 13:31:18] "POST /predict HTTP/1.1" 200 -
+2025-05-07 13:31:39,292 - INFO - Prediction: click this link to g... -> Spam (100.00%)
+2025-05-07 13:31:39,300 - INFO - 127.0.0.1 - - [07/May/2025 13:31:39] "POST /predict HTTP/1.1" 200 -
+2025-05-07 13:31:45,691 - INFO - 127.0.0.1 - - [07/May/2025 13:31:45] "GET /stats HTTP/1.1" 200 -
+2025-05-07 13:31:54,580 - INFO - Prediction: hello
+... -> Ham (98.74%)
+2025-05-07 13:31:54,580 - INFO - 127.0.0.1 - - [07/May/2025 13:31:54] "POST /predict HTTP/1.1" 200 -
+2025-05-07 13:31:58,795 - INFO - Prediction: spam
+... -> Ham (72.07%)
+2025-05-07 13:31:58,795 - INFO - 127.0.0.1 - - [07/May/2025 13:31:58] "POST /predict HTTP/1.1" 200 -
+2025-05-07 13:32:05,577 - INFO - 127.0.0.1 - - [07/May/2025 13:32:05] "GET /stats HTTP/1.1" 200 -
+2025-05-07 13:32:23,028 - INFO - 127.0.0.1 - - [07/May/2025 13:32:23] "GET /history HTTP/1.1" 200 -
+2025-05-07 13:32:35,096 - INFO - 127.0.0.1 - - [07/May/2025 13:32:35] "POST /delete_message HTTP/1.1" 200 -
+2025-05-07 13:32:35,111 - INFO - 127.0.0.1 - - [07/May/2025 13:32:35] "GET /history HTTP/1.1" 200 -
+2025-05-07 13:32:36,911 - INFO - 127.0.0.1 - - [07/May/2025 13:32:36] "GET /stats HTTP/1.1" 200 -
+2025-05-07 13:32:43,028 - INFO - 127.0.0.1 - - [07/May/2025 13:32:43] "GET /stats HTTP/1.1" 200 -
+2025-05-07 13:32:43,877 - INFO - 127.0.0.1 - - [07/May/2025 13:32:43] "GET /history HTTP/1.1" 200 -
+2025-05-07 15:17:41,431 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 15:17:43,460 - INFO - Models loaded successfully
+2025-05-07 15:17:47,906 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 15:17:47,988 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.18.79:5001
+2025-05-07 15:17:47,988 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 15:17:48,026 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-07 15:17:51,378 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 15:17:51,641 - INFO - Models loaded successfully
+2025-05-07 15:17:51,809 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 15:17:51,828 - WARNING -  * Debugger is active!
+2025-05-07 15:17:51,834 - INFO -  * Debugger PIN: 992-610-159
+2025-05-07 15:18:31,377 - INFO - 127.0.0.1 - - [07/May/2025 15:18:31] "GET / HTTP/1.1" 200 -
+2025-05-07 15:18:37,146 - INFO - Prediction: hi... -> Ham (72.07%)
+2025-05-07 15:18:37,146 - INFO - 127.0.0.1 - - [07/May/2025 15:18:37] "POST /predict HTTP/1.1" 200 -
+2025-05-07 15:18:45,642 - INFO - Prediction: hello... -> Ham (98.74%)
+2025-05-07 15:18:45,642 - INFO - 127.0.0.1 - - [07/May/2025 15:18:45] "POST /predict HTTP/1.1" 200 -
+2025-05-07 15:18:52,668 - INFO - Prediction: where are you from
+... -> Ham (72.07%)
+2025-05-07 15:18:52,668 - INFO - 127.0.0.1 - - [07/May/2025 15:18:52] "POST /predict HTTP/1.1" 200 -
+2025-05-07 15:25:45,589 - INFO - Prediction: hi... -> Ham (72.07%)
+2025-05-07 15:25:45,589 - INFO - 127.0.0.1 - - [07/May/2025 15:25:45] "POST /predict HTTP/1.1" 200 -
+2025-05-07 20:59:33,823 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 20:59:35,681 - INFO - Models loaded successfully
+2025-05-07 21:01:00,225 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 21:01:01,569 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.3:5001
+2025-05-07 21:01:01,570 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 21:01:01,663 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-07 21:01:04,060 - INFO - Loading model and vectorizer from individual files...
+2025-05-07 21:01:04,275 - INFO - Models loaded successfully
+2025-05-07 21:02:28,556 - INFO - Starting SMS Spam Detection Flask App
+2025-05-07 21:02:28,581 - WARNING -  * Debugger is active!
+2025-05-07 21:02:28,593 - INFO -  * Debugger PIN: 992-610-159

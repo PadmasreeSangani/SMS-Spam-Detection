@@ -1,0 +1,40 @@
+2025-04-27 19:09:08,514 - INFO - Loaded model and vectorizer
+2025-04-27 19:09:59,831 - INFO - Loaded model and vectorizer
+2025-04-27 19:10:28,949 - INFO - Loaded model and vectorizer
+2025-04-27 19:13:24,515 - INFO - Loaded model and vectorizer
+2025-04-27 19:16:12,744 - INFO - Loaded model and vectorizer
+2025-04-27 19:16:12,767 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://10.51.8.184:5002
+2025-04-27 19:16:12,767 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-27 19:16:12,767 - INFO -  * Restarting with stat
+2025-04-27 19:16:13,544 - INFO - Loaded model and vectorizer
+2025-04-27 19:16:13,560 - WARNING -  * Debugger is active!
+2025-04-27 19:16:13,570 - INFO -  * Debugger PIN: 876-651-535
+2025-04-28 01:43:58,665 - INFO - Loaded model and vectorizer
+2025-04-28 01:43:58,694 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.51.8.184:5000
+2025-04-28 01:43:58,694 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 01:43:58,695 - INFO -  * Restarting with stat
+2025-04-28 01:43:59,474 - INFO - Loaded model and vectorizer
+2025-04-28 01:43:59,490 - WARNING -  * Debugger is active!
+2025-04-28 01:43:59,499 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 01:44:29,209 - INFO - Predicted 'Ham' for message: hello world
+2025-04-28 01:44:29,209 - INFO - 127.0.0.1 - - [28/Apr/2025 01:44:29] "POST /predict HTTP/1.1" 200 -
+2025-04-28 01:44:37,372 - INFO - Predicted 'Spam' for message: Win a free iPhone now!
+2025-04-28 01:44:37,373 - INFO - 127.0.0.1 - - [28/Apr/2025 01:44:37] "POST /predict HTTP/1.1" 200 -
+2025-04-28 02:02:19,517 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/sms_spam_detection.py', reloading
+2025-04-28 02:02:19,717 - INFO -  * Restarting with stat
+2025-04-28 02:02:20,989 - INFO - Loaded model and vectorizer
+2025-04-28 02:02:21,008 - WARNING -  * Debugger is active!
+2025-04-28 02:02:21,017 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 02:03:10,925 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/sms_spam_detection.py', reloading
+2025-04-28 02:03:11,073 - INFO -  * Restarting with stat
+2025-04-28 02:03:12,130 - INFO - Loaded model and vectorizer
+2025-04-28 02:03:12,148 - WARNING -  * Debugger is active!
+2025-04-28 02:03:12,156 - INFO -  * Debugger PIN: 465-354-800
+2025-04-28 02:05:32,253 - INFO -  * Detected change in '/Users/gauravkumar/Desktop/SMS_Spam_Detection/app.py', reloading
+2025-04-28 02:05:32,406 - INFO -  * Restarting with stat

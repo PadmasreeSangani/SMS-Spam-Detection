@@ -1,0 +1,9 @@
+Message: Congratulations! You've won a $1000 gift card. Click here to claim.
+Prediction: Spam
+
+Message: Hey, are we meeting at 6 PM today?
+Prediction: Ham
+
+Message: Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005.
+Prediction: Spam
+

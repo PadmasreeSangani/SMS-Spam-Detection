@@ -1,0 +1,226 @@
+2025-04-27 18:55:37,948 - INFO - Using TkAgg backend for matplotlib
+2025-04-27 18:55:37,957 - INFO - Loaded dataset: spam.csv
+2025-04-27 18:55:38,496 - INFO - Completed text preprocessing
+2025-04-27 18:55:38,526 - INFO - Extracted TF-IDF features
+2025-04-27 18:55:38,528 - INFO - Split data
+2025-04-27 18:55:38,539 - INFO - Applied SMOTE
+2025-04-27 18:55:38,540 - INFO - Trained model
+2025-04-27 18:55:38,545 - INFO - Saved model and vectorizer
+2025-04-27 18:55:38,559 - INFO - Accuracy: 0.9545
+2025-04-27 18:55:38,559 - INFO - Precision: 0.7761
+2025-04-27 18:55:38,559 - INFO - Recall: 0.9178
+2025-04-27 18:55:38,559 - INFO - F1 Score: 0.8410
+2025-04-27 18:55:38,559 - INFO - Cross-validated Recall: 0.9424
+2025-04-27 18:55:38,560 - INFO - Saved metrics
+2025-04-27 18:55:38,561 - INFO - Message: Congratulations! You've won a $1000 gift card. Click here to claim.
+2025-04-27 18:55:38,561 - INFO - Prediction: Spam
+2025-04-27 18:55:38,561 - INFO - Message: Hey, are we meeting at 6 PM today?
+2025-04-27 18:55:38,561 - INFO - Prediction: Ham
+2025-04-27 18:55:38,562 - INFO - Message: Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005.
+2025-04-27 18:55:38,562 - INFO - Prediction: Spam
+2025-04-27 18:55:38,786 - INFO - Saved confusion matrix
+2025-04-28 01:40:00,312 - WARNING - TkAgg backend failed. Falling back to Agg (plots saved, not displayed)
+2025-04-28 01:40:00,511 - INFO - Loaded dataset: spam.csv
+2025-04-28 01:40:01,001 - INFO - Completed text preprocessing
+2025-04-28 01:40:01,026 - INFO - Extracted TF-IDF features
+2025-04-28 01:40:01,028 - INFO - Split data
+2025-04-28 01:40:01,037 - INFO - Applied SMOTE
+2025-04-28 01:40:01,038 - INFO - Trained model
+2025-04-28 01:40:01,043 - INFO - Saved model and vectorizer
+2025-04-28 01:40:01,057 - INFO - Accuracy: 0.9545
+2025-04-28 01:40:01,057 - INFO - Precision: 0.7761
+2025-04-28 01:40:01,057 - INFO - Recall: 0.9178
+2025-04-28 01:40:01,057 - INFO - F1 Score: 0.8410
+2025-04-28 01:40:01,057 - INFO - Cross-validated Recall: 0.9424
+2025-04-28 01:40:01,057 - INFO - Saved metrics
+2025-04-28 01:40:01,058 - INFO - Message: hello world
+2025-04-28 01:40:01,058 - INFO - Prediction: Ham
+2025-04-28 01:55:58,493 - INFO - Using TkAgg backend for matplotlib
+2025-04-28 01:55:58,505 - INFO - Loaded dataset: spam.csv
+2025-04-28 01:55:59,059 - INFO - Completed text preprocessing
+2025-04-28 01:55:59,089 - INFO - Extracted TF-IDF features
+2025-04-28 01:55:59,091 - INFO - Split data
+2025-04-28 01:55:59,102 - INFO - Applied SMOTE
+2025-04-28 01:55:59,103 - INFO - Trained model
+2025-04-28 01:55:59,109 - INFO - Saved model and vectorizer
+2025-04-28 01:55:59,124 - INFO - Accuracy: 0.9545
+2025-04-28 01:55:59,124 - INFO - Precision: 0.7761
+2025-04-28 01:55:59,124 - INFO - Recall: 0.9178
+2025-04-28 01:55:59,124 - INFO - F1 Score: 0.8410
+2025-04-28 01:55:59,124 - INFO - Cross-validated Recall: 0.9424
+2025-04-28 01:55:59,125 - INFO - Saved metrics
+2025-04-28 01:55:59,125 - INFO - Message: hello world
+2025-04-28 01:55:59,125 - INFO - Prediction: Ham
+2025-04-28 02:01:18,512 - INFO - Using TkAgg backend for matplotlib
+2025-04-28 02:01:18,529 - INFO - Loaded dataset: spam.csv
+2025-04-28 02:01:19,086 - INFO - Completed text preprocessing
+2025-04-28 02:01:19,115 - INFO - Extracted TF-IDF features
+2025-04-28 02:01:19,116 - INFO - Split data
+2025-04-28 02:01:19,126 - INFO - Applied SMOTE
+2025-04-28 02:01:19,127 - INFO - Trained model
+2025-04-28 02:01:19,137 - INFO - Saved model and vectorizer
+2025-04-28 02:01:19,151 - INFO - Accuracy: 0.9545
+2025-04-28 02:01:19,151 - INFO - Precision: 0.7761
+2025-04-28 02:01:19,151 - INFO - Recall: 0.9178
+2025-04-28 02:01:19,151 - INFO - F1 Score: 0.8410
+2025-04-28 02:01:19,151 - INFO - Cross-validated Recall: 0.9424
+2025-04-28 02:01:19,152 - INFO - Saved metrics
+2025-04-28 02:01:19,153 - INFO - Message: hello world
+2025-04-28 02:01:19,153 - INFO - Prediction: Ham
+2025-04-28 02:03:18,034 - INFO - Using TkAgg backend for matplotlib
+2025-04-28 02:03:18,044 - INFO - Loaded dataset: spam.csv
+2025-04-28 02:03:18,597 - INFO - Completed text preprocessing
+2025-04-28 02:03:18,627 - INFO - Extracted TF-IDF features
+2025-04-28 02:03:18,628 - INFO - Split data
+2025-04-28 02:03:18,639 - INFO - Applied SMOTE
+2025-04-28 02:03:18,640 - INFO - Trained model
+2025-04-28 02:03:18,646 - INFO - Saved model and vectorizer
+2025-04-28 02:03:18,660 - INFO - Accuracy: 0.9731
+2025-04-28 02:03:18,660 - INFO - Precision: 0.9143
+2025-04-28 02:03:18,660 - INFO - Recall: 0.8767
+2025-04-28 02:03:18,660 - INFO - F1 Score: 0.8951
+2025-04-28 02:03:18,660 - INFO - Cross-validated Recall: 0.9424
+2025-04-28 02:03:18,661 - INFO - Saved metrics
+2025-04-28 02:03:18,661 - INFO - Message: hello world
+2025-04-28 02:03:18,661 - INFO - Prediction: Ham
+2025-04-28 02:03:19,360 - INFO - Saved confusion matrix
+2025-04-28 02:03:43,296 - INFO - Using TkAgg backend for matplotlib
+2025-04-28 02:03:43,303 - INFO - Loaded dataset: spam.csv
+2025-04-28 02:03:43,828 - INFO - Completed text preprocessing
+2025-04-28 02:03:43,857 - INFO - Extracted TF-IDF features
+2025-04-28 02:03:43,858 - INFO - Split data
+2025-04-28 02:03:43,866 - INFO - Applied SMOTE
+2025-04-28 02:03:43,867 - INFO - Trained model
+2025-04-28 02:03:43,871 - INFO - Saved model and vectorizer
+2025-04-28 02:03:43,887 - INFO - Accuracy: 0.9731
+2025-04-28 02:03:43,887 - INFO - Precision: 0.9143
+2025-04-28 02:03:43,887 - INFO - Recall: 0.8767
+2025-04-28 02:03:43,887 - INFO - F1 Score: 0.8951
+2025-04-28 02:03:43,887 - INFO - Cross-validated Recall: 0.9424
+2025-04-28 02:03:43,887 - INFO - Saved metrics
+2025-04-28 02:03:43,888 - INFO - Message: Congratulations! You've won a $1000 gift card. Click here to claim.
+2025-04-28 02:03:43,888 - INFO - Prediction: Spam
+2025-04-28 02:03:43,888 - INFO - Message: Hey, are we meeting at 6 PM today?
+2025-04-28 02:03:43,888 - INFO - Prediction: Ham
+2025-04-28 02:03:43,889 - INFO - Message: Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005.
+2025-04-28 02:03:43,889 - INFO - Prediction: Spam
+2025-04-28 02:03:44,091 - INFO - Saved confusion matrix
+2025-04-28 03:11:50,542 - INFO - Loaded dataset with 5572 messages
+2025-04-28 03:11:50,605 - INFO - Training SVM model...
+2025-04-28 03:13:05,326 - INFO - Best parameters: {'model__C': 1, 'model__kernel': 'linear'}
+2025-04-28 03:13:05,761 - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.99      0.98      0.99      1448
+        Spam       0.90      0.92      0.91       224
+
+    accuracy                           0.98      1672
+   macro avg       0.94      0.95      0.95      1672
+weighted avg       0.98      0.98      0.98      1672
+
+2025-04-28 03:13:05,761 - INFO - ROC AUC Score: 0.9803
+2025-04-28 03:13:05,771 - INFO - Saved model artifacts
+2025-04-28 03:13:05,775 - INFO - 
+Message: Congratulations! You've won a $1000 gift card. Click here to claim.
+2025-04-28 03:13:05,775 - INFO - Prediction: Spam (Confidence: 99.22%)
+2025-04-28 03:13:05,775 - INFO - 
+Message: Hey, are we meeting at 6 PM today?
+2025-04-28 03:13:05,775 - INFO - Prediction: Ham (Confidence: 99.99%)
+2025-04-28 03:13:05,775 - INFO - 
+Message: Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005.
+2025-04-28 03:13:05,775 - INFO - Prediction: Spam (Confidence: 99.46%)
+2025-04-28 03:13:05,775 - INFO - Total execution time: 76.72 seconds
+2025-04-28 03:14:15,458 - INFO - Loaded dataset with 5572 messages
+2025-04-28 03:14:15,521 - INFO - Training SVM model...
+2025-04-28 03:15:30,337 - INFO - Best parameters: {'model__C': 1, 'model__kernel': 'linear'}
+2025-04-28 03:15:30,762 - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.99      0.98      0.99      1448
+        Spam       0.90      0.92      0.91       224
+
+    accuracy                           0.98      1672
+   macro avg       0.94      0.95      0.95      1672
+weighted avg       0.98      0.98      0.98      1672
+
+2025-04-28 03:15:30,762 - INFO - ROC AUC Score: 0.9803
+2025-04-28 03:15:30,775 - INFO - Saved model artifacts
+2025-04-28 03:15:30,777 - INFO - 
+Message: Win free prizes now!
+2025-04-28 03:15:30,777 - INFO - Prediction: Spam (Confidence: 100.00%)
+2025-04-28 03:15:30,777 - INFO - Total execution time: 76.81 seconds
+2025-04-28 03:19:58,361 - INFO - Loaded dataset with 5572 messages
+2025-04-28 03:19:58,442 - INFO - Training SVM model...
+2025-04-28 03:20:13,399 - INFO - Best parameters: {'model__C': 1, 'model__kernel': 'linear'}
+2025-04-28 03:20:13,821 - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.99      0.97      0.98      1448
+        Spam       0.83      0.92      0.87       224
+
+    accuracy                           0.96      1672
+   macro avg       0.91      0.95      0.93      1672
+weighted avg       0.97      0.96      0.96      1672
+
+2025-04-28 03:20:13,821 - INFO - ROC AUC Score: 0.9772
+2025-04-28 03:20:13,898 - INFO - Saved model artifacts
+2025-04-28 03:20:13,902 - INFO - 
+Message: Congratulations! You've won a $1000 gift card. Click here to claim.
+2025-04-28 03:20:13,902 - INFO - Prediction: Spam (Confidence: 100.00%)
+2025-04-28 03:20:13,902 - INFO - 
+Message: Hey, are we meeting at 6 PM today?
+2025-04-28 03:20:13,902 - INFO - Prediction: Ham (Confidence: 99.99%)
+2025-04-28 03:20:13,902 - INFO - 
+Message: URGENT: Your account has been compromised. Verify now!
+2025-04-28 03:20:13,902 - INFO - Prediction: Spam (Confidence: 100.00%)
+2025-04-28 03:20:13,902 - INFO - Total execution time: 17.17 seconds
+2025-04-28 03:21:30,920 - INFO - Loaded dataset with 5572 messages
+2025-04-28 03:21:30,982 - INFO - Training NB model...
+2025-04-28 03:21:31,092 - INFO - Best parameters: {'model__alpha': 0.5}
+2025-04-28 03:21:31,304 - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.99      0.97      0.98      1448
+        Spam       0.82      0.92      0.87       224
+
+    accuracy                           0.96      1672
+   macro avg       0.90      0.95      0.92      1672
+weighted avg       0.97      0.96      0.96      1672
+
+2025-04-28 03:21:31,304 - INFO - ROC AUC Score: 0.9807
+2025-04-28 03:21:31,384 - INFO - Saved model artifacts
+2025-04-28 03:21:31,386 - INFO - 
+Message: Congratulations! You've won a $1000 gift card. Click here to claim.
+2025-04-28 03:21:31,386 - INFO - Prediction: Spam (Confidence: 99.11%)
+2025-04-28 03:21:31,386 - INFO - 
+Message: Hey, are we meeting at 6 PM today?
+2025-04-28 03:21:31,387 - INFO - Prediction: Ham (Confidence: 98.15%)
+2025-04-28 03:21:31,387 - INFO - 
+Message: URGENT: Your account has been compromised. Verify now!
+2025-04-28 03:21:31,387 - INFO - Prediction: Spam (Confidence: 95.37%)
+2025-04-28 03:21:31,387 - INFO - Total execution time: 1.96 seconds
+2025-04-28 03:56:20,813 - INFO - Loaded dataset with 5572 messages
+2025-04-28 03:56:20,876 - INFO - Training SVM model...
+2025-04-28 03:56:35,742 - INFO - Best parameters: {'model__C': 1, 'model__kernel': 'linear'}
+2025-04-28 03:56:36,236 - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.99      0.97      0.98      1448
+        Spam       0.83      0.92      0.87       224
+
+    accuracy                           0.96      1672
+   macro avg       0.91      0.95      0.93      1672
+weighted avg       0.97      0.96      0.96      1672
+
+2025-04-28 03:56:36,236 - INFO - ROC AUC Score: 0.9772
+2025-04-28 03:56:36,326 - INFO - Saved model artifacts
+2025-04-28 03:56:36,328 - INFO - 
+Message: hi I am good
+2025-04-28 03:56:36,328 - INFO - Prediction: Ham (Confidence: 99.62%)
+2025-04-28 03:56:36,328 - INFO - Total execution time: 17.02 seconds
+2025-04-28 12:06:33,605 - ERROR - Data loading error: [Errno 2] No such file or directory: 'your_dataset.csv'

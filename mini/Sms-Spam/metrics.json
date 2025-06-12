@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.9641148325358851,
+  "precision": 0.828,
+  "recall": 0.9241071428571429,
+  "f1": 0.8734177215189873,
+  "roc_auc": 0.9771667817679559,
+  "classification_report": "              precision    recall  f1-score   support\n\n         Ham       0.99      0.97      0.98      1448\n        Spam       0.83      0.92      0.87       224\n\n    accuracy                           0.96      1672\n   macro avg       0.91      0.95      0.93      1672\nweighted avg       0.97      0.96      0.96      1672\n"
+}

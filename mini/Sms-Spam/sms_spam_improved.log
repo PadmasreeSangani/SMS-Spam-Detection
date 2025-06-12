@@ -1,0 +1,24 @@
+2025-04-28 03:07:43,762 - INFO - Loaded dataset with 5572 messages
+2025-04-28 03:07:45,278 - INFO - Completed text preprocessing
+2025-04-28 03:07:45,338 - INFO - Feature extraction completed
+2025-04-28 03:07:45,341 - INFO - Data split into train/test sets
+2025-04-28 03:07:45,341 - INFO - Training SVM with hyperparameter tuning...
+2025-04-28 03:08:18,922 - INFO - Best parameters: {'model__C': 1, 'model__kernel': 'linear'}
+2025-04-28 03:08:19,156 - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.99      0.98      0.99      1448
+        Spam       0.90      0.92      0.91       224
+
+    accuracy                           0.98      1672
+   macro avg       0.94      0.95      0.95      1672
+weighted avg       0.98      0.98      0.98      1672
+
+2025-04-28 03:08:19,156 - INFO - ROC AUC Score: 0.9803
+2025-04-28 03:08:19,163 - INFO - Saved model artifacts
+2025-04-28 03:08:20,155 - INFO - Saved confusion matrix
+2025-04-28 03:08:20,159 - INFO - 
+Message: Your test message here
+2025-04-28 03:08:20,159 - INFO - Prediction: Ham (Confidence: 83.31%)
+2025-04-28 03:08:20,159 - INFO - Total execution time: 36.42 seconds
